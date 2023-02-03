@@ -1,1 +1,10 @@
-
+body { 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(219, 219, 255);
+}
+section {
+    height: 55vh;
+    display: grid;
+    place-items: center;
+}
